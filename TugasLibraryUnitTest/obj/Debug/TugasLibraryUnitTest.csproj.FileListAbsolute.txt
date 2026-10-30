@@ -1,0 +1,10 @@
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Tugas Software Testing\project tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.AssemblyReference.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Tugas Software Testing\project tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CoreCompileInputs.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Tugas Software Testing\project tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Tugas Software Testing\project tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Tugas Software Testing\project tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.dll
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Tugas Software Testing\project tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.dll
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Tugas Software Testing\project tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Tugas Software Testing\project tugas\TugasLibraryUnitTest\obj\Debug\TugasLib.F1D3760C.Up2Date
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Tugas Software Testing\project tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.dll
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Tugas Software Testing\project tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.pdb
